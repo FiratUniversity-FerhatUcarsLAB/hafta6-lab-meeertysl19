@@ -1,3 +1,7 @@
+AD SOYAD  : İSMET MERT UYSAL
+NO:250542017
+
+
 import java.util.Scanner;
 
 public class SinemaBiletSistemi {
@@ -134,3 +138,4 @@ public class SinemaBiletSistemi {
         generateTicketInfo(gun, saat, yas, meslek, filmTuru);
     }
 }
+
