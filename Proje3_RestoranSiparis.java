@@ -1,3 +1,8 @@
+AD SOYAD  : İSMET MERT UYSAL
+NO:250542017
+
+
+
 import java.util.Scanner;
 
 public class SiparisSistemi {
@@ -153,3 +158,4 @@ public class SiparisSistemi {
         System.out.printf("Bahsis Onerisi: %.2f TL\n", bahsis);
     }
 }
+
