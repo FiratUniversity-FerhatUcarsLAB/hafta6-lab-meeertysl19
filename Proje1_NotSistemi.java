@@ -1,3 +1,6 @@
+AD SOYAD  : İSMET MERT UYSAL
+NO:250542017
+
 import java.util.Scanner;
 
 public class NotRaporuProgrami {
@@ -67,3 +70,4 @@ public class NotRaporuProgrami {
         System.out.println("Butunleme : " + (but ? "VAR" : "YOK"));
     }
 }
+
